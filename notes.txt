@@ -1,0 +1,25 @@
+Suma de Números Pares: Escribe un programa que recorra los números del 1 al 100 y sume solo los números pares utilizando un ciclo for. **Listo**
+
+•  Calculadora de Descuento: Crea un programa que solicite al usuario el precio de un producto y aplique un descuento del 10% si el precio es mayor a 100. Muestra el precio final. **Listo**
+
+•  Cálculo de Promedio: Solicita al usuario 5 calificaciones, almacénalas en una lista, y luego utiliza un ciclo para calcular y mostrar el promedio de las calificaciones.**Listo**
+
+•  Números Primos: Crea un programa que imprima los números primos entre 1 y 50. Utiliza un ciclo for y condicionales para determinar si un número es primo.
+
+•  Cálculo de Factorial: Escribe una función que reciba un número entero positivo y calcule su factorial utilizando un ciclo while.
+
+•  Tablas de Multiplicar: Crea un programa que genere y muestre la tabla de multiplicar del 1 al 10 para un número ingresado por el usuario.
+
+•  Clasificación de Edad: Escribe un programa que solicite la edad de una persona y, usando condicionales, determine si es niño, adolescente, adulto o adulto mayor.
+
+•  Suma de Elementos de una Lista: Crea una función que reciba una lista de números enteros y devuelva la suma de todos sus elementos.
+
+•  Menú de Opciones: Diseña un programa con un menú de opciones que permita al usuario elegir entre varias operaciones matemáticas básicas (suma, resta, multiplicación, división) y que ejecute la operación seleccionada con dos números ingresados.
+
+•  Palíndromo: Escribe una función que determine si una palabra ingresada por el usuario es un palíndromo (se lee igual de adelante hacia atrás).
+
+•  Conteo de Números Negativos: Crea un programa que recorra una lista de números y cuente cuántos de ellos son negativos.
+
+•  Descuento por Cantidad: Escribe un programa que calcule el precio total de una compra de varios productos. Si la cantidad de productos es mayor a 5, aplica un descuento del 15%.
+
+•  Juego de Adivinanza: Diseña un juego en el que la computadora elija un número aleatorio entre 1 y 50, y el usuario tenga que adivinarlo. El programa debe decir si el número ingresado es mayor o menor que el número secreto hasta que el usuario acierte.
